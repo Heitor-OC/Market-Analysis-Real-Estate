@@ -6,11 +6,11 @@ This is a freelance project I did for a polish real estate agent, it contains a 
 
 # Libs used
 
-BeautifulSoup
-Pandas
-Seaborn
-MatPlotLib
-SciKit-Learn
+1. BeautifulSoup
+2. Pandas
+3. Seaborn
+4. MatPlotLib
+5. SciKit-Learn
 
 # Some of the plots used in the analysis
 
